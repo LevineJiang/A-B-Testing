@@ -1,7 +1,6 @@
 This is a method I've learned from the book : 
 
-Practical Statistics for Data Scientists, 2nd Edition
-Peter Gedeck
+Practical Statistics for Data Scientists, 2nd Edition by Peter Gedeck
 
 
 Randomization Test: Another Way to Determine the Significance of A/B Testing
